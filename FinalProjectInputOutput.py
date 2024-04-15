@@ -1,6 +1,6 @@
 # CIS 2348 Final Project Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: #######
 # Final Project: This program manages the inventory of an electronics store.
 
 import csv
